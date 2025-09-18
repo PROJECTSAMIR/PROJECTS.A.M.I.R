@@ -1,8 +1,7 @@
-# {PROJECT S.A.M.I.R}
-{PROJECT S.A.M.I.R} began as a rescue mission — salvaging parts from an old family PC destined for recycling. Rebuilt into a compact, high‑performance rig, it became my first true lab platform and the foundation for everything that followed
-# ⚡ Project S.A.M.I.R v1 — Resurrection Build
+# 🛡️ Project S.A.M.I.R 🛡️
+*More than a PC — the starting point of my cybersecurity journey with Project S.A.M.I.R.*  
 
-# ⚡ First Boot — Before It Truly Powered On  
+## ⚡ First Boot — Before It Truly Powered On  
 
 When I first pressed the power button, this system hadn’t been switched on in nearly six years.  
 Inside the old Cooler Master case, I found an **ASUS Maximus VII Gene motherboard**, an **Intel Core i7-4790**, dual **Palit GTX 970s in SLI**, and a **Corsair CS750M PSU** — all exactly as they had been left.  
@@ -47,12 +46,15 @@ This process taught me hardware identification, compatibility checks, and safe h
 
 ## 🆕 New Parts for the Revival  
 
-To bring the system back to life, I invested in a few upgrades:  
+Once I had the core system cleaned and identified, I knew it still needed a few upgrades to actually run as a modern, usable machine.  
 
-- **RAM:** 32 GB DDR3 (4×8 GB HyperX Fury sticks)  
-- **SSD:** 2× Corsair 2.5" 1 TB drives  
-- **HDD:** 2 TB Seagate Barracuda  
-- **Case:** Phanteks G400A — improved airflow, modern design, and cable management  
+- **RAM:** I maxed out the motherboard’s capacity with 32 GB of DDR3 (4×8 GB HyperX Fury sticks). This gave me the headroom to run heavier workloads and experiment with virtual machines later on.  
+- **Storage:** With 8 SATA ports available, I wanted to make full use of the platform. I installed 2× Corsair 1 TB SSDs and a 2 TB Seagate Barracuda HDD — giving me 6 TB of storage out of the box, with room to expand further.  
+- **Boot & OS:** I picked up a SanDisk 128 GB USB 3.0 stick to create a Windows 10 Pro installer. A fresh CR2032 BIOS battery was also installed to replace the dead one.  
+- **Case:** Finally, I moved everything into a new Phanteks G400A — a case known for airflow, tempered glass, and cable management.  
+
+This balanced approach kept costs low while transforming the salvaged system into a reliable foundation for learning and experimentation.  
+
 
 ---
 
@@ -65,19 +67,12 @@ To bring the system back to life, I invested in a few upgrades:
 
 ---
 
-👉 This project is the foundation of my technical portfolio.  
-It demonstrates curiosity, persistence, and the ability to learn quickly — qualities I plan to build on as I continue my journey into IT and cybersecurity.  
-
-
-## 🎯 Why This Build Matters
-
-This wasn’t just a PC upgrade — it was a resurrection.  
-Bringing a system back from near‑junk status taught me:
-
-- How to assess and safely revive long‑stored hardware  
-- The importance of cleaning, re‑pasting, and testing before upgrades  
-- How to blend salvage and new parts into a cohesive, reliable system  
-
-This build became **Project S.A.M.I.R v1** — the launchpad for my current multi‑VM lab and the beginning of my journey into systems architecture and cybersecurity.
+## 👉 This project is the foundation of my technical portfolio.  
+It demonstrates curiosity, persistence, and the ability to learn quickly — qualities I plan to build on as I continue my journey into IT and cybersecurity. 
 
 ---
+
+## 🚀 Closing  
+
+From salvaged parts to a secure foundation — this isn’t just a home lab.  
+It’s where my cybersecurity journey began, and where it continues with **Project S.A.M.I.R**.  
