@@ -77,7 +77,3 @@ This balanced approach kept costs low while transforming the salvaged system int
 
 
 ## 📚 Project S.A.M.I.R — Build Log Series
-
-1. [Chapter 1: The Revival](docs/chapter1_revived.md) — From six years dormant to first spark of life  
-2. [Chapter 2: The Rebuild](docs/chapter2_thesetup.md) — Upgrades, case migration, and first boot  
-4. Chapter 3: Coming Soon — Lab setup, VM deployment, and security hardening
