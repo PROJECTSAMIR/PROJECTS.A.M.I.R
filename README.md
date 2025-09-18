@@ -74,3 +74,10 @@ This balanced approach kept costs low while transforming the salvaged system int
 - It demonstrates curiosity, persistence, the ability to learn a field I plan to build on as I continue my journey into IT and cybersecurity.
 - From salvaged parts to a secure foundation this isn’t just a home lab.  
 - It’s where my cybersecurity journey began, and where it continues with **Project S.A.M.I.R**.  
+
+
+## 📚 Project S.A.M.I.R — Build Log Series
+
+1. [Chapter 1: The Revival](docs/chapter1_revived.md) — From six years dormant to first spark of life  
+2. [Chapter 2: The Rebuild](docs/chapter2_rebuild.md) — Upgrades, case migration, and first boot  
+3. Chapter 3: Coming Soon — Lab setup, VM deployment, and security hardening
