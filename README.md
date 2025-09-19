@@ -77,6 +77,6 @@ This balanced approach kept costs low while transforming the salvaged system int
 
 
 ## 📚 Project S.A.M.I.R — Build Log Series
-- [Chapter 1: The Revival](docs/chapter1_revived.md)  
-- [Chapter 2: The Setup](docs/chapter2_setup.md)  
+- [Chapter 1: The Revival]()  
+- [Chapter 2: The Setup]()  
 - Chapter 3: Coming soon...  
