@@ -20,7 +20,8 @@ The journey is told in **chapters**, each covering a stage of the build and lear
 
 1. [Chapter 1: The Revival](TheRevival.md) — From six years dormant to first spark of life  
 2. [Chapter 2: The Setup](TheSetup.md) — Building the workspace and environment  
-3. .[Chapter 3: IT Works](ITWorks.md) Lab setup, VM deployment, and security hardening
+3. [Chapter 3: IT Works](ITWorks.md) - Lab setup, VM deployment, and security hardening
+
 
 ---
 
