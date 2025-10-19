@@ -1,6 +1,6 @@
 # 🛡️ Project S.A.M.I.R — Introduction
 
-**Security • Analysis • Monitoring • Integration • Resilience**
+**Secure • Analyse • Monitor • Implement • Reinforce**
 
 Welcome to **Project S.A.M.I.R** — my personal brand and technical portfolio.  
 This is more than a PC build log — it’s the documented journey of turning salvaged hardware into a professional, security-focused home lab.
